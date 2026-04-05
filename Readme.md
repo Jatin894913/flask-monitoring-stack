@@ -33,3 +33,7 @@ Then visit:
 ## Architecture
 Flask App → Prometheus (scrapes metrics every 15s) → Grafana (visualizes data)
 Deployed on AWS EC2 t3.micro instance (Ubuntu 24.04)
+
+## Live Dashboard Screenshot
+
+![System Health Dashboard](dashboard.png)
